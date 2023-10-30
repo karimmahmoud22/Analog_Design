@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Sep 22 15:31:03 2023 
+Best design point: 1
+Design specs: 
+	CND_Sec15:Lab02:1	corner	Nominal - 
+Design parameters: 
+	RL		2K
+	Ru		4K
+	Vdc		15
+	Rth		6K
+
+Interactive.10
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.10 completed. 
+Current time: Fri Sep 22 15:31:55 2023 
